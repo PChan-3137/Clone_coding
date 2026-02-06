@@ -1,6 +1,6 @@
 # Balboa 클론코딩
 
-![mainvisual](<img width="1920" height="3930" alt="Image" src="https://github.com/user-attachments/assets/f9a57335-63f2-4db6-a7ef-eda6ecad26a0" />)
+![mainvisual](https://github.com/user-attachments/assets/f9a57335-63f2-4db6-a7ef-eda6ecad26a0)
 
 ## Balboa 사이트의 클론코딩 작업물입니다.
 
